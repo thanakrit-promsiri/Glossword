@@ -1,7 +1,7 @@
 <?php
 /* Database settings for Glossword */
 define('GW_DB_HOST', 'localhost');
-define('GW_DB_DATABASE', 'glossword');
+define('GW_DB_DATABASE', 'sans_dict');
 define('GW_DB_USER', 'root');
 define('GW_DB_PASSWORD', 'password');
 $sys['tbl_prefix'] = 'gw_';
